@@ -29,6 +29,7 @@ namespace Proyecto_ordenamiento
             //Imprimimos la lista con los valores ordenados
             Console.WriteLine(listaSimpleLigada.Recorrer());
             Console.ReadKey();
+
         }
     }
 }
